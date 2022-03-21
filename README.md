@@ -60,7 +60,6 @@ https://github.com/klebsonlou/Desafio_Compasso.git
 ###### Tratamento de erros implementados:
   1. Inserir ou atualizar um Product com formato inválido.
   2. Atualizar um Product com id não existente.
-  3. 
 
 ##### exemplo payload :
 {
